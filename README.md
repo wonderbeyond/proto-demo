@@ -37,5 +37,8 @@ python -m grpc_tools.protoc -I protos \
 ## Reveal the issue
 
 ```
-python reveal.py
+$ python reveal.py
+Case 1: OK
+Case 2: OK
+Case 3: Failed
 ```
